@@ -4,6 +4,8 @@ You can find the source code & working demo for ZapBill on GitHub:
 
 [ZapBill GitHub Repository](https://github.com/shivamkatyan/zap-bill-prod)
 
+Readable version(in Angular): [ZapBill](https://github.com/shivamkatyan/zap-bill)
+
 [ZapBill Working Demo](https://shivamkatyan.github.io/zap-bill-prod/)
 
 **ZapBill** is a Progressive Web App (PWA) designed for users to securely manage their credit cards and pay their credit card bills using UPI. All data is stored on the user's device via IndexedDB, ensuring no external data collection. The app can be installed directly as a Chrome PWA for easy access.
